@@ -9,6 +9,7 @@ Sou desenvolvedor, apaixonado por superar desafios e criar soluções com impact
 
 Eu gosto de ter ideias e ver elas sendo construidas, busco ser um desenvolvedor cada vez mais completo, além das linguagens de programação, gosto de estudar sobre Design UX para entender a conexão entre os sistemas e as pessoas.
 <br>
+<br>
 Tive a honra em 2024 de apresentar o protótipo do meu projeto de TCC no Rio Innovation Week no stand da UERJ (<a href="https://mail.google.com/mail/?view=cm&fs=1&to=danylohenrique2407@gmail.com" title="Gmail">Post no Linkedin</a>), um aplicativo gamificado para que as atividades de sala de aula sejam realizadas, para tornar o aprendizado mais engajador e motivante.
 
 

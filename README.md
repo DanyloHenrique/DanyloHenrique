@@ -14,6 +14,7 @@ Tive a honra em 2024 de apresentar o protótipo do meu projeto de TCC no Rio Inn
 
 
 📚 Alguns cursos que fiz:
+- Fundamentos de computação em nuvem na AWS - AWS Academy Graduate
 - Introdução prática a ciência de dados usando Python - Universidade do Estado do Rio de Janeiro (UERJ-Resende)
 - Fundamentos do Python - Cisco Networking Academy
 - Clean Code - Rocketseat

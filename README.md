@@ -21,18 +21,22 @@ Tive a honra em 2024 de apresentar o protótipo do meu projeto de TCC no Rio Inn
 - Empreendedorismo e propriedade intelectual - Universidade do Estado do Rio de Janeiro (UERJ)
 
 ## ⭐ Estatísticas do Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyloHenrique&hide_progress=true&theme=cobalt)
-![Danylo GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyloHenrique&show_icons=true&theme=cobalt)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danylohenrique&theme=tokyonight)
+![Danylo GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats/?username=danylohenrique&theme=tokyonight)
 
 ## Tecnologias e linguagens 💻
+
+### Stack Principal
+
 <img
-src="https://go-skill-icons.vercel.app/api/icons?i=javascript,python,cpp,go,lua"
+src="https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,react,nodejs,docker,postgrespython"
 />        
 
-## Frameworks e Libs 💻
+### Complementares
 <img
-src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,tailwindcss,seaborn,scikitlearn"
-/>     
+src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,vitest,prisma,sass,figma,git,seaborn,scikitlearn,go,lua"
+/>
+
 
 ## Contato
 <p align="left">

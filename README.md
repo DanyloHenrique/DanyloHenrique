@@ -21,8 +21,9 @@ Tive a honra em 2024 de apresentar o protótipo do meu projeto de TCC no Rio Inn
 - Empreendedorismo e propriedade intelectual - Universidade do Estado do Rio de Janeiro (UERJ)
 
 ## ⭐ Estatísticas do Github
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danylohenrique&theme=nord_dark)
-![Danylo GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats/?username=danylohenrique&theme=nord_dark)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danylohenrique&theme=holi)
+![Danylo GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danylohenrique&theme=holi)
+
 
 ## Tecnologias e linguagens 💻
 

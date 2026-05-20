@@ -1,4 +1,4 @@
-# Ola, eu sou o Danylo👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=press+start&size=32&duration=3000&pause=2000&color=88C0D0&width=435&lines=Ola%2C+eu+sou+o+Danylo%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="left">
 Sou desenvolvedor, apaixonado por superar desafios e criar soluções com impacto positivo. <br> Curso Ciência da Computação na UERJ e estudo desenvolvimento Fullstack com React e Node.js, além de ciência de dados e machine learning com Python.
@@ -21,8 +21,8 @@ Tive a honra em 2024 de apresentar o protótipo do meu projeto de TCC no Rio Inn
 - Empreendedorismo e propriedade intelectual - Universidade do Estado do Rio de Janeiro (UERJ)
 
 ## ⭐ Estatísticas do Github
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danylohenrique&theme=tokyonight)
-![Danylo GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats/?username=danylohenrique&theme=tokyonight)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danylohenrique&theme=nord_dark)
+![Danylo GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats/?username=danylohenrique&theme=nord_dark)
 
 ## Tecnologias e linguagens 💻
 

@@ -1,19 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=press+start&size=32&duration=3000&pause=2000&color=88C0D0&width=435&lines=Ola%2C+eu+sou+o+Danylo%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<p align="left">
-Sou desenvolvedor, apaixonado por superar desafios e criar soluções com impacto positivo. <br> Curso Ciência da Computação na UERJ e estudo desenvolvimento Fullstack com React e Node.js, além de ciência de dados e machine learning com Python.
-</p>
+Sou um **engenheiro de software** com foco em **React** e **Node.js** <br> 
+Curso Ciência da Computação na UERJ e venho me dedicando aos estudos de desenvolvimento FullStack, focado em criar softwares legiveis e manuteníveis, baseando-me em principios de OOP, SOLID e arquiteturas. Além disso, também gosto de estudar sobre ciência de dados e machine learning com Python.
 
 ## Sobre mim
-"Não existe nada que não possa ser codado"
 
 Eu gosto de ter ideias e ver elas sendo construidas, busco ser um desenvolvedor cada vez mais completo, além das linguagens de programação, gosto de estudar sobre Design UX para entender a conexão entre os sistemas e as pessoas.
+<br>
+No Frontend tenho experiência com React, TailwindCSS, Sass, Context Api, React Router e Tanstack Router. Já no Backend possuo conhecimento de Node.js com Express e Fastify, além de PrismaORM e Docker para orquestração e gerencimanto do banco de dados, também tenho conhecimento sobre SQL até conteudos como joins, CTE e Windows Functions.
 <br>
 <br>
 Tive a honra em 2024 de apresentar o protótipo do meu projeto de TCC no Rio Innovation Week no stand da UERJ (<a href="https://mail.google.com/mail/?view=cm&fs=1&to=danylohenrique2407@gmail.com" title="Gmail">Post no Linkedin</a>), um aplicativo gamificado para que as atividades de sala de aula sejam realizadas, para tornar o aprendizado mais engajador e motivante.
 
+## Tecnologias e linguagens 💻
 
-📚 Alguns cursos que fiz:
+### Stack Principal
+<img
+src="https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,react,nodejs,docker,postgrespython"
+/>        
+
+### Complementares
+<img
+src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,vitest,prisma,sass,figma,git,seaborn,scikitlearn,go,lua"
+/>
+
+## 📚 Alguns cursos que fiz:
 - Fundamentos de computação em nuvem na AWS - AWS Academy Graduate
 - Introdução prática a ciência de dados usando Python - Universidade do Estado do Rio de Janeiro (UERJ-Resende)
 - Fundamentos do Python - Cisco Networking Academy
@@ -23,20 +34,6 @@ Tive a honra em 2024 de apresentar o protótipo do meu projeto de TCC no Rio Inn
 ## ⭐ Estatísticas do Github
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danylohenrique&theme=holi)
 ![Danylo GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danylohenrique&theme=holi)
-
-
-## Tecnologias e linguagens 💻
-
-### Stack Principal
-
-<img
-src="https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,react,nodejs,docker,postgrespython"
-/>        
-
-### Complementares
-<img
-src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,vitest,prisma,sass,figma,git,seaborn,scikitlearn,go,lua"
-/>
 
 
 ## Contato
